@@ -1,0 +1,29 @@
+# ---- Artefactos de empaquetado (PyInstaller) ----
+build/
+dist/
+*.spec
+
+# ---- Ejecutables y binarios externos ----
+# El .exe se distribuye por GitHub Releases, no dentro del repo.
+# ffmpeg y fpcalc los descarga cada usuario (ver README).
+*.exe
+ffmpeg*
+fpcalc*
+*.dll
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ---- Configuracion local del usuario (incluye la clave de AcoustID) ----
+.organizador_musica.json
+
+# ---- Sistema operativo / editores ----
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
