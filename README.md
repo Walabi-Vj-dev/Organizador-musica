@@ -12,10 +12,10 @@ Aplicación de escritorio para poner orden en tu biblioteca de música: edita et
 
 ## Capturas
 
-![Biblioteca](capturas/cap1.jpg)
-![Editor de etiquetas](capturas/cap2.jpg)
-![Búsqueda online](capturas/cap3.jpg)
-![Duplicados](capturas/cap4.jpg)
+![Biblioteca](capturas/cap1.png)
+![Editor de etiquetas](capturas/cap2.png)
+![Búsqueda online](capturas/cap3.png)
+![Duplicados](capturas/cap4.png)
 
 ---
 
